@@ -1,0 +1,19 @@
+{
+  "Author": "Qmeko",
+  "Name": "ConditionCommandSender",
+  "Punchline": "Log-trigger rules with tags, commands, waits, and Lua. EN/JA UI.",
+  "Description": "All collected logs are evaluated against every enabled rule. Rules are organized with tags. Flow steps are Wait, Command, and Lua. UI language follows Dalamud, or can be switched between English and Japanese in Settings.",
+  "InternalName": "ConditionCommandSender",
+  "AssemblyVersion": "0.1.10.4",
+  "DalamudApiLevel": 15,
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Qmeko/ConditionCommandSender",
+  "Tags": [
+    "utility",
+    "automation",
+    "logs",
+    "rules"
+  ],
+  "DownloadLinkInstall": "https://github.com/Qmeko/ConditionCommandSender/releases/latest/download/ConditionCommandSender.zip",
+  "DownloadLinkUpdate": "https://github.com/Qmeko/ConditionCommandSender/releases/latest/download/ConditionCommandSender.zip"
+}
