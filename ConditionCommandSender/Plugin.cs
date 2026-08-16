@@ -252,7 +252,7 @@ public sealed class Plugin : IDalamudPlugin
         chatGui.Print(I18n.Format(
             "cmd.all_set",
             configuration.Rules.Count,
-            enabled ? I18n.Get("cmd.enabled") : I18n.Get("cmd.disabled"));
+            enabled ? I18n.Get("cmd.enabled") : I18n.Get("cmd.disabled")));
     }
 
     private void ToggleAllRulesEnabled()
